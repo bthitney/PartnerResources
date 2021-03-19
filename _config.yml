@@ -11,13 +11,13 @@ footer_content: "Copyright &copy; 2021 Microsoft"
 
 # Social (First three Required)
 # TODO change to microsoft
-repo: "https://github.com/microsoft/PartnerResources"
-github_user: "microsoft"
+repo: "https://github.com/bthitney/PartnerResources"
+github_user: "bthitney"
 github_repo: "PartnerResources"
 twitter: microsoft
 linkedin: microsoft
 
-logo_pixels: 34
+logo_pixels: 34w
 color: "#FFFFFF"
 
 # google-analytics: UA-XXXXXXXXXX
