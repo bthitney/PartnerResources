@@ -7,7 +7,7 @@ baseurl: "/PartnerResources"
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "Copyright &copy; 2021 Microsoft"
+footer_content: "Copyright &copy; 2021 Microsoft "
 
 # Social (First three Required)
 # TODO change to microsoft
@@ -18,8 +18,8 @@ twitter: microsoft
 linkedin: microsoft
 
 logo_pixels: 34w
-color: "#FFFFFF"
-
+color: "#FFFFFF" 
+ 
 # google-analytics: UA-XXXXXXXXXX
 # Image and (square) dimension for logo (don't start with /)
 # If commented, will use material hat theme
