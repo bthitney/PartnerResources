@@ -10,7 +10,7 @@ back_to_top_text: "Back to top"
 footer_content: "Copyright &copy; 2021 Microsoft "
 
 #custom variables
-branch: main 
+#branch: main 
 
 # Social (First three Required)
 # TODO change to microsoft
