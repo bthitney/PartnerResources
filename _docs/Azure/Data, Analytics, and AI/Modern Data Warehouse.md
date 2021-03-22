@@ -160,3 +160,6 @@ Both of these exams are required for the [Microsoft Certified: Azure Data Engine
 * [Buck Woody's Blog](https://buckwoody.wordpress.com/)
 * [James Serra's Blog](https://www.jamesserra.com/)
 * [Azure Synapse Tech Community](https://techcommunity.microsoft.com/t5/azure-synapse-analytics/bg-p/AzureSynapseAnalyticsBlog)
+
+
+
