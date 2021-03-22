@@ -66,5 +66,7 @@ Microsoft and any contributors reserve all other rights, whether under their res
 or trademarks, whether by implication, estoppel or otherwise.
 
 # License
-
+ 
 This repository is licensed under MIT license. More info can be found [here](/LICENSE).
+
+(test)
