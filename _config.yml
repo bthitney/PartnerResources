@@ -55,7 +55,7 @@ collections:
 # Defaults
 defaults:
   - scope:
-      path: "_docs"
+      path: "LearningPlans"
       type: "docs"
     values:
       layout: page
