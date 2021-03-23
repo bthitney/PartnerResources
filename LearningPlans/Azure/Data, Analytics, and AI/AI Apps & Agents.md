@@ -5,6 +5,7 @@ permalink: /azure/data-analytics-ai/oss-db-to-azure
 tags: 
  - azure
  - data-analytics-ai
+ - AI
 ---
 
 # Learning Plan Resources for Conversational AI
